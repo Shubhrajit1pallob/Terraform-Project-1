@@ -15,6 +15,7 @@ terraform.rc
 
 # Ignore Terraform working directory
 .terraform/
+.terraform.lock.hcl
 
 # Ignore sensitive files
 *.pem
